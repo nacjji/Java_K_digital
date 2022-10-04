@@ -1,3 +1,5 @@
+package java_DataType_0930;
+
 public class java_var_0930 {
     public static void main(String[] args) {
         int x = 10;

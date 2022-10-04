@@ -2,13 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66700316-955f-43c9-af3e-5e1b08e3bd58" name="Changes" comment="0930">
-      <change afterPath="$PROJECT_DIR$/src/Java_overflow_0930.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_0929.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_booleanTest_0930.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_integerDater_0930.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_operator_0930.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_DataType_0930/java_operator_0930.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/Arithmatic_Error.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/Condirional_Logic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/Java_Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/Java_Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/Java_timeCalcul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/java_ArithmeticOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/java_Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/java_if_def.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/java_if_login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/java_if_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/java_operatorUnary_1004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/java_pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_xor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_var_0930.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_var_0930.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_K_digital.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_K_digital.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_overflow_0930.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_DataType_0930/Java_overflow_0930.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_0929.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_0929/java_0929.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_booleanTest_0930.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_DataType_0930/java_booleanTest_0930.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_integerDater_0930.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_DataType_0930/java_integerDater_0930.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_operator_0930.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_var_0930.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_DataType_0930/java_var_0930.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +35,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -27,7 +45,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/java_var_0930.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/java_DataType_0930/java_var_0930.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -64,6 +82,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664507580493</updated>
     </task>
+    <task id="LOCAL-00001" summary="0930">
+      <created>1664528730374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664528730375</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

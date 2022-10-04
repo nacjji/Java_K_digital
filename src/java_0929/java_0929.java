@@ -1,3 +1,5 @@
+package java_0929;
+
 public class java_0929 {
     public static void main(String[] args) {
         System.out.printf("%05d\n", 15);
