@@ -1,4 +1,4 @@
-package Java_If_1005;
+package java_Control_Statement_1005;
 
 public class Java_final_var {
     public static void main(String[] args) {

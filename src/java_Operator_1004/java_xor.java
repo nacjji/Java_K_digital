@@ -1,3 +1,5 @@
+package java_Operator_1004;
+
 public class java_xor {
     public static void main(String[] args) {
         int a = 11;
