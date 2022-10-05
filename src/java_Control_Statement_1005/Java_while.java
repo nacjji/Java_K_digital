@@ -1,6 +1,6 @@
 package java_Control_Statement_1005;
 
-public class java_while {
+public class Java_while {
     public static void main(String[] args) {
         // hello java 5번 출력
         int idx = 0;

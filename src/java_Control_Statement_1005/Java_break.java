@@ -1,6 +1,6 @@
 package java_Control_Statement_1005;
 
-public class java_break {
+public class Java_break {
     public static void main(String[] args) {
         for(int i=1;i<10;i++){
             System.out.println(i);
