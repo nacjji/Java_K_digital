@@ -1,6 +1,6 @@
 package java_Operator_1004;
 
-public class Condirional_Logic {
+public class Conditional_Logic {
     public static void main(String[] args) {
         int year = 2024;
         // 윤년, 4의 배수, 100의 배수x , 400의 배수

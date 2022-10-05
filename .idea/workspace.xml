@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66700316-955f-43c9-af3e-5e1b08e3bd58" name="Changes" comment="0930">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_DataType_0930/java_operator_0930.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/Arithmatic_Error.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/Condirional_Logic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/Java_Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/Java_Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/Java_timeCalcul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/java_ArithmeticOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/java_Swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/java_if_def.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/java_if_login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/java_if_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/java_operatorUnary_1004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Operator_1004/java_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_xor.java" afterDir="false" />
+    <list default="true" id="66700316-955f-43c9-af3e-5e1b08e3bd58" name="Changes" comment="1004">
+      <change afterPath="$PROJECT_DIR$/src/Java_If_1005/Java_final_var.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_If_1005/Java_ifTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_If_1005/Java_switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_If_1005/java_while.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_K_digital.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_K_digital.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_overflow_0930.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_DataType_0930/Java_overflow_0930.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_0929.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_0929/java_0929.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_booleanTest_0930.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_DataType_0930/java_booleanTest_0930.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_integerDater_0930.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_DataType_0930/java_integerDater_0930.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_operator_0930.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_var_0930.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_DataType_0930/java_var_0930.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Operator_1004/Condirional_Logic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Operator_1004/Conditional_Logic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Operator_1004/Java_Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Operator_1004/Java_Switch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664528730375</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1004">
+      <created>1664875075571</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664875075571</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +96,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="0930" />
-    <option name="LAST_COMMIT_MESSAGE" value="0930" />
+    <MESSAGE value="1004" />
+    <option name="LAST_COMMIT_MESSAGE" value="1004" />
   </component>
 </project>
