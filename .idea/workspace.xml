@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66700316-955f-43c9-af3e-5e1b08e3bd58" name="Changes" comment="1005">
-      <change afterPath="$PROJECT_DIR$/src/java_Control_Statement_1005/Java_do_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Control_Statement_1005/Java_NestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Control_Statement_1005/Java_for.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Control_Statement_1005/java_break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Control_Statement_1005/java_continue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_If_1005/Java_final_var.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Control_Statement_1005/Java_final_var.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_If_1005/Java_ifTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Control_Statement_1005/Java_ifTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_If_1005/Java_switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Control_Statement_1005/Java_switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_If_1005/java_while.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Control_Statement_1005/java_while.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_xor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Operator_1004/java_xor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +54,21 @@
       <command value="9" />
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="java_break" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Control_Statement_1005.java_break" />
+      <module name="Java_K_digital" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_Control_Statement_1005.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -86,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664945027045</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1005">
+      <created>1664948979078</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664948979079</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
