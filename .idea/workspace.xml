@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66700316-955f-43c9-af3e-5e1b08e3bd58" name="Changes" comment="1005">
-      <change afterPath="$PROJECT_DIR$/src/java_Control_Statement_1005/Java_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Control_Statement_1005/Java_Scanner_error.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Control_Statement_1005/Java_control_etc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Control_Statement_1005/Java_return.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_control_1006/Java_Input_Star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_control_1006/Java_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_control_1006/Java_array_matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_control_1006/Java_array_reference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_control_1006/Java_equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_control_1006/Java_fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_control_1006/Java_toggle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Control_Statement_1005/java_break.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Control_Statement_1005/Java_break.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Control_Statement_1005/java_continue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Control_Statement_1005/Java_continue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Control_Statement_1005/java_while.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Control_Statement_1005/Java_while.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664953890011</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1005">
+      <created>1664961753770</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664961753770</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
