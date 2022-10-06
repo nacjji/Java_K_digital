@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66700316-955f-43c9-af3e-5e1b08e3bd58" name="Changes" comment="1005">
-      <change afterPath="$PROJECT_DIR$/src/java_control_1006/Java_Input_Star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_control_1006/Java_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_control_1006/Java_array_matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_control_1006/Java_array_reference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_control_1006/Java_equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_control_1006/Java_fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_control_1006/Java_toggle.java" afterDir="false" />
+    <list default="true" id="66700316-955f-43c9-af3e-5e1b08e3bd58" name="Changes" comment="1006">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664961753770</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1006">
+      <created>1665046400500</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665046400500</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +141,7 @@
     <MESSAGE value="0930" />
     <MESSAGE value="1004" />
     <MESSAGE value="1005" />
-    <option name="LAST_COMMIT_MESSAGE" value="1005" />
+    <MESSAGE value="1006" />
+    <option name="LAST_COMMIT_MESSAGE" value="1006" />
   </component>
 </project>
